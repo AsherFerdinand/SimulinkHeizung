@@ -36,7 +36,7 @@ I'm looking for a solution to preserve the switching logic while maintaining sim
 
 ## 🔧 Model Details
 
-- **File**: `boiler_valve_control.slx`
+- **File**: `Bundeswehr2.slx`
 - **MATLAB Version**: R2024b
 - **Toolboxes**:
   - Simulink
@@ -47,7 +47,7 @@ I'm looking for a solution to preserve the switching logic while maintaining sim
 ## ▶️ How to Run
 
 1. Open MATLAB R2024b.
-2. Load the Simulink model: `boiler_valve_control.slx`
+2. Load the Simulink model: `Bundeswehr2.slx`
 3. Run the simulation.
 4. Check the error log for algebraic loop notifications.
 
@@ -55,14 +55,9 @@ I'm looking for a solution to preserve the switching logic while maintaining sim
 
 ## 📂 Files
 
-- `boiler_valve_control.slx` – Simulink model
+- `Bundeswehr2.slx` – Simulink model
 - `README.md` – Project description
 
----
-
-## 📸 (Optional Screenshot)
-
-_You can add a screenshot of the model layout here._
 
 ---
 
